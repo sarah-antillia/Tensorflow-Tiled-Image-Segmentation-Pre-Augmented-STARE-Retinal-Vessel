@@ -39,7 +39,7 @@ and <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentati
 Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer </a>, the Tiled Image Segmentation based on a simple UNet model trained by a tiledly-splitted images and masks dataset, 
 is an effective method for the large image segmentation over 4K pixels.
 <br><br>
-It is difficult to precisely segment Retinal Blood Vessels in small images using a simple U-Net model 
+It is difficult to precisely segment Retinal Blood Vessels in small images using a simple UNet model 
 because these vessels are typically very thin and difficult to detect. 
 Therefore, we generate a high-resolution retinal 
 image dataset by upscaling the original images and use it to train the UNet model to improve segmentation performance.
