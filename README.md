@@ -108,7 +108,6 @@ you may try other Tensorflow UNet Models:<br>
 <li><a href="./src/TensorflowEfficientUNet.py">TensorflowEfficientUNet.py</a></li>
 <li><a href="./src/TensorflowUNet3Plus.py">TensorflowUNet3Plus.py</a></li>
 <li><a href="./src/TensorflowDeepLabV3Plus.py">TensorflowDeepLabV3Plus.py</a></li>
-
 <br>
 
 <h3>1. Dataset Citation</h3>
@@ -136,14 +135,11 @@ STARE
 </a>
 <br>
 <br>
-
 <b>Authors and Institutions</b><br>
 Adam Hoover (Department of Electrical and Computer Engineering, Clemson University)<br>
 Valentina Kouznetsova (Vision Computing Lab, Department of Electrical and Computer Engineering, <br>
 University of California, San Diego, La Jolla)<br>
-
 Michael Goldbaum (Department of Ophthalmology, University of California, San Diego)
-
 <br>
 <br>
 <b>Citation</b><br>
