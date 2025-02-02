@@ -203,8 +203,6 @@ On the derivation of this tiled dataset, please refer to the following Python sc
 <li><a href="./generator/TiledImageMaskDatasetGenerator.py">TiledImageMaskDatasetGenerator.py</a></li>
 <li><a href="./generator/split_tiled_master.py">split_tiled_master.py</a></li>
 <br>
-
-
 <br>
 <b>Augmented-Tiled-STARE Statistics</b><br>
 <img src ="./projects/TensorflowSlightlyFlexibleUNet/Augmented-Tiled-STARE/Augmented-Tiled-STARE_Statistics.png" width="512" height="auto"><br>
@@ -219,7 +217,6 @@ to use for a training set of our segmentation model.
 <b>Train_masks_sample</b><br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Augmented-Tiled-STARE/asset/train_masks_sample.png" width="1024" height="auto">
 <br>
-
 <h3>
 3 Train TensorflowUNet Model
 </h3>
