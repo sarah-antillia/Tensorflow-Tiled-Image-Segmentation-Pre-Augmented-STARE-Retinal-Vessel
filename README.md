@@ -52,7 +52,6 @@ We generated a 5x enlarged dataset of 19 JPG images and masks, each with 3500x30
 PPM.GZ image and label files using bicubic interpolation.
 <br>
 <br>
-
 <b>2. Pre Augemtned Tiled STARE ImageMask Dataset</b><br>
 We generated a pre-augmented image mask dataset from the enlarged dataset, which was tiledly-splitted to 512x512 pixels 
 and reduced to 512x512 pixels image and mask dataset.
