@@ -36,9 +36,7 @@ Tensorflow-Image-Segmentation-Retinal-Vessel</a> based on <a href="https://resea
 As demonstrated in our experiments <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-IDRiD-HardExudates">
 Tensorflow-Tiled-Image-Segmentation-IDRiD-HardExudates </a>, 
 and <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer">
-Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer </a>
-
-,the Tiled Image Segmentation based on a simple UNet model trained by a tiledly-splitted images and masks dataset, 
+Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer </a>, the Tiled Image Segmentation based on a simple UNet model trained by a tiledly-splitted images and masks dataset, 
 is an effective method for the large image segmentation over 4K pixels.
 <br><br>
 It is difficult to precisely segment Retinal Blood Vessels in small images using a simple U-Net model 
